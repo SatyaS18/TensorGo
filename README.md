@@ -10,7 +10,7 @@ A modern feedback platform built with **React**, **Node.js**, **Express**, **Tai
 - Submit feedback with category, rating & comment
 - Filter feedback by category
 - Edit or delete your own feedback
-- Frill Widget Integration (optional)
+- Frill Widget Integration 
 - MongoDB for storing feedback
 - TailwindCSS + Vite + Dark theme design
 
